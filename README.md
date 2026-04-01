@@ -22,17 +22,17 @@ I'm a Computer Science student at **University of Naples Parthenope**, passionat
 
 ### Telepass System
 Desktop application simulating an automated motorway toll management system.
-Built in **Java + JavaFX**, MVC Architecture, design patterns (Singleton, Factory, Strategy).
+Built in **Java + JavaFX**, MVC Architecture, design patterns (Singleton, Factory, Strategy).  
 `Grade: 28/30`
 
 ### MFC Monitoring System
 Real-time monitoring and control system for Microbial Fuel Cells.
-Built in **Python + Tkinter**, ECB architecture, multi-threading, MQTT-ready IoT telemetry.
+Built in **Python + Tkinter**, ECB architecture, multi-threading, MQTT-ready IoT telemetry.  
 `Grade: 30/30 cum laude`
 
 ### Chroma — iOS Color Matching App
 iOS app helping colorblind users match clothing colors.
-Built in **Swift + SwiftUI**, AVFoundation, CoreImage color analysis algorithm.
+Built in **Swift + SwiftUI**, AVFoundation, CoreImage color analysis algorithm.  
 `Apple iOS Foundation Program 2025.`
 
 ## Contact

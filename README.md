@@ -30,5 +30,11 @@ Real-time monitoring and control system for Microbial Fuel Cells.
 Built in **Python + Tkinter**, ECB architecture, multi-threading, MQTT-ready IoT telemetry.
 `Grade: 30/30 cum laude`
 
+### Chroma — iOS Color Matching App
+iOS app helping colorblind users match clothing colors.
+Built in **Swift + SwiftUI**, AVFoundation, CoreImage color analysis algorithm.
+Apple iOS Foundation Program project.
+``
+
 ## Contact
 [![Email](https://img.shields.io/badge/email-eliadisarno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eliadisarno@gmail.com)

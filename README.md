@@ -33,7 +33,7 @@ Built in **Python + Tkinter**, ECB architecture, multi-threading, MQTT-ready IoT
 ### Chroma — iOS Color Matching App
 iOS app helping colorblind users match clothing colors.
 Built in **Swift + SwiftUI**, AVFoundation, CoreImage color analysis algorithm.  
-`Apple iOS Foundation Program 2025.`
+`Apple iOS Foundation Program 2025`
 
 ## Contact
 [![Email](https://img.shields.io/badge/email-eliadisarno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eliadisarno@gmail.com)
